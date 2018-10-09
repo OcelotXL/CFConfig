@@ -1,0 +1,6 @@
+---
+fortuneService:
+  scheme: http
+  address: fortuneservice-wise-parrot.cf.magenic.net
+  randomFortunePath: api/fortunes/random
+  allFortunesPath: api/fortunes/all
